@@ -1,6 +1,6 @@
 <h2 align="center">
   Hudson Hand | Portfolio Website<br/>
-  <a href="https://www.rahuljha.tech/" target="_blank">rahuljha.tech</a>
+  <a href="https://portfolio-website-f430b.web.app/" target="_blank">rahuljha.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme_img.png" />
@@ -19,7 +19,7 @@ You can fork this repo to modify and make changes according to your need. Please
 
 ## Built With
 
-My personal portfolio website <a href="https://www.rahuljha.tech/" target="_blank">rahuljha.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio website <a href="https://portfolio-website-f430b.web.app/" target="_blank">Hudson Hand</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project is built using these technologies.
 
@@ -61,9 +61,9 @@ You will find all the components used and you can edit your information accordin
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/rahuljha4171/Portfolio-Website/issues">Report A Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/myroncaldwell/Portfolio-Website/issues">Report A Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/rahuljha4171/Portfolio-Website/issues">Request A Feature</a>
+    <a href="https://github.com/myroncaldwell/Portfolio-Website/issues">Request A Feature</a>
 
 </h3>
 
