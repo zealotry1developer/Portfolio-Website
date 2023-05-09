@@ -1,6 +1,6 @@
 <h2 align="center">
   Hudson Hand | Portfolio Website<br/>
-  <a href="https://portfolio-website-f430b.web.app/" target="_blank">rahuljha.tech</a>
+  <a href="https://portfolio-website-f430b.web.app/" target="_blank">Hudson Hand</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme_img.png" />
@@ -10,12 +10,11 @@
 
 <div align="center">
 
-![GitHub Repo stars](https://img.shields.io/github/stars/rahuljha4171/Portfolio-Website?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/rahuljha4171/Portfolio-Website?color=red&logo=github&style=for-the-badge)
+
 
 </div>
 
-You can fork this repo to modify and make changes according to your need. Please give me proper credit by linking back to [Rahuljha4171](https://github.com/rahuljha4171/Portfolio-Website). Thanks in Advance😍!
+You can fork this repo to modify and make changes according to your need. Please give me proper credit by linking back to [Hudson Hand](https://github.com/myroncaldwell/Portfolio-Website). Thanks in Advance😍!
 
 ## Built With
 
