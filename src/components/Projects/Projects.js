@@ -34,8 +34,8 @@ function Projects() {
               imgPath={Portfolio}
               title="Portfolio Website"
               description="My personal Portfolio Website build with React and Bootstrap. It is fully responsive website which supports both dark and light mode."
-              ghLink="https://github.com/rahuljha4171/Portfolio-Website"
-              demoLink="https://rahuljha.tech/"
+              ghLink="https://github.com/myroncaldwell/Portfolio-Website"
+              demoLink="https://portfolio-website-f430b.web.app"
             />
           </Col>
           <Col md={6} lg={4} className="project-card">
@@ -44,7 +44,7 @@ function Projects() {
               title="Private Chat"
               description="A Personal Chat Application to share resources and hangout with friends build with react.js, css, and Firebase. Have features which allows user for realtime messaging, image sharing and search user."
               ghLink="#"
-              demoLink="https://chat-app-rahuljha4171.vercel.app/"
+              demoLink="#"
             />
           </Col>
 
@@ -53,8 +53,8 @@ function Projects() {
               imgPath={ExpenseTracker}
               title="Expense Tracker"
               description="An online expense tracker using React, Node, Express, and MongoDB as the database. It allows you to keep track of your expenses, investments, and savings. All past transactions are listed, and you can also delete them. "
-              ghLink="https://github.com/rahuljha4171/Expense-Tracker"
-              demoLink="https://expense-tracker.rahuljha4171.vercel.app/"
+              ghLink="#"
+              demoLink="#"
             />
           </Col>
         </Row>
