@@ -46,7 +46,7 @@ function NavBar() {
           
           <a href="/" className="logo">
           <span className="grey-color"> &lt;</span>
-          <span className="logo-name">Hudson Hand</span>
+          <span className="logo-name">Myron Caldwell</span>
           <span className="grey-color">/&gt;</span>
           </a>
         </Navbar.Brand>

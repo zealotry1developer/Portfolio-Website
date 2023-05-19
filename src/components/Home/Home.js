@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 //import homeIcon from "../../Assets/homeicons.svg";
 import ScrollToTop from "../ScrollToTop/ScrollToTop";
-import codingPerson from "../../Assets/lottie/codingPerson";
+import codingPerson from "../../Assets/lottie/landingPerson";
 import DisplayLottie from "./DisplayLottie";
 import Home2 from "./Home2";
 import Type from "./Type";
@@ -37,7 +37,7 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
-                <strong className="main-name">Hudson Hand</strong>
+                <strong className="main-name">Myron Caldwell</strong>
               </h1>
 
               <div style={{ padding: 30 }} className="type">

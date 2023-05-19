@@ -1,6 +1,6 @@
 <h2 align="center">
-  Hudson Hand | Portfolio Website<br/>
-  <a href="https://portfolio-website-f430b.web.app/" target="_blank">Hudson Hand</a>
+  Myron Caldwell | Portfolio Website<br/>
+  <a href="https://portfolio-website-f430b.web.app/" target="_blank">Myron Caldwell</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme_img.png" />
@@ -14,11 +14,11 @@
 
 </div>
 
-You can fork this repo to modify and make changes according to your need. Please give me proper credit by linking back to [Hudson Hand](https://github.com/myroncaldwell/Portfolio-Website). Thanks in Advance😍!
+You can fork this repo to modify and make changes according to your need. Please give me proper credit by linking back to [Myron Caldwell](https://github.com/myroncaldwell/Portfolio-Website). Thanks in Advance😍!
 
 ## Built With
 
-My personal portfolio website <a href="https://portfolio-website-f430b.web.app/" target="_blank">Hudson Hand</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio website <a href="https://portfolio-website-f430b.web.app/" target="_blank">Myron Caldwell</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project is built using these technologies.
 
