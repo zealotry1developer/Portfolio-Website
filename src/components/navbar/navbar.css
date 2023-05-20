@@ -105,11 +105,11 @@
 
 .navbar-nav .nav-item {
   position: relative;
-  margin-left: 20px;
+  margin-left: 45px;
 }
 
 .navbar-nav .nav-item a {
-  font-weight: 400;
+  font-weight: 550;
   transition: all 0.3s ease-out 0s;
   position: relative;
   z-index: 1;

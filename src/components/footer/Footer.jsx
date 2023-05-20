@@ -17,7 +17,7 @@ function Footer() {
         <Col md="4" className="footer-copywright">
           <span>
             Designed and Developed by{" "}
-            <i className="primary-header">Hudson Hand</i>
+            <i className="primary-header">Myron Caldwell</i>
           </span>
         </Col>
         <Col md="4" className="footer-body">
